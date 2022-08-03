@@ -1,5 +1,5 @@
 import{ suma, multiplica } from'./controller'
-
+import{chalk} from 'chalk';
 const sum= suma(1,2)
 console.log(sum);
 
